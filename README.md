@@ -5,7 +5,7 @@ Módulo 6: Desarrollo de Interfaces Interactivas con Framework Vue
 Enlace directo: [https://youtu.be/lr8WeJAlg3Y] (https://youtu.be/lr8WeJAlg3Y)
 
 ## 2. Repositorio del proyecto
-https://constanza-pixel.github.io/proyectoM6/
+https://constanza-pixel.github.io/proyectobooklist/
 
 ### Decisiones técnicas y arquitectura
 
